@@ -1,0 +1,454 @@
+21:25:03  [main] 	Initializing Control Panel
+21:25:03  [main] 	Windows Version:  Enterprise  64-bit
+21:25:03  [main] 	XAMPP Version: 8.0.0
+21:25:03  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:25:03  [main] 	You are not running with administrator rights! This will work for
+21:25:03  [main] 	most application stuff but whenever you do something with services
+21:25:03  [main] 	there will be a security dialogue or things will break! So think 
+21:25:03  [main] 	about running this application with administrator rights!
+21:25:03  [main] 	XAMPP Installation Directory: "i:\www\"
+21:25:03  [main] 	Checking for prerequisites
+21:25:04  [main] 	All prerequisites found
+21:25:04  [main] 	Initializing Modules
+21:25:04  [Apache] 	Problem detected!
+21:25:04  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:25:04  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:25:04  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:25:04  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:25:04  [main] 	The FileZilla module is disabled
+21:25:04  [main] 	The Mercury module is disabled
+21:25:04  [main] 	Starting Check-Timer
+21:25:04  [main] 	Control Panel Ready
+21:25:51  [Apache] 	Problem detected!
+21:25:51  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:25:51  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:25:51  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:25:51  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:25:51  [Apache] 	Attempting to start Apache app...
+21:25:52  [Apache] 	Status change detected: running
+21:25:52  [Apache] 	Status change detected: stopped
+21:25:52  [Apache] 	Error: Apache shutdown unexpectedly.
+21:25:52  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:25:52  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:25:52  [Apache] 	Press the Logs button to view error logs and check
+21:25:52  [Apache] 	the Windows Event Viewer for more clues
+21:25:52  [Apache] 	If you need more help, copy and post this
+21:25:52  [Apache] 	entire log window on the forums
+21:25:54  [Apache] 	Problem detected!
+21:25:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:25:54  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:25:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:25:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:25:54  [Apache] 	Attempting to start Apache app...
+21:25:55  [Apache] 	Status change detected: running
+21:25:55  [Apache] 	Status change detected: stopped
+21:25:55  [Apache] 	Error: Apache shutdown unexpectedly.
+21:25:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:25:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:25:55  [Apache] 	Press the Logs button to view error logs and check
+21:25:55  [Apache] 	the Windows Event Viewer for more clues
+21:25:55  [Apache] 	If you need more help, copy and post this
+21:25:55  [Apache] 	entire log window on the forums
+21:26:17  [Apache] 	Problem detected!
+21:26:17  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:26:17  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:26:17  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:26:17  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:26:17  [Apache] 	Attempting to start Apache app...
+21:26:17  [Apache] 	Status change detected: running
+21:26:17  [Apache] 	Status change detected: stopped
+21:26:17  [Apache] 	Error: Apache shutdown unexpectedly.
+21:26:17  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:26:17  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:26:17  [Apache] 	Press the Logs button to view error logs and check
+21:26:17  [Apache] 	the Windows Event Viewer for more clues
+21:26:17  [Apache] 	If you need more help, copy and post this
+21:26:17  [Apache] 	entire log window on the forums
+21:26:18  [Apache] 	Problem detected!
+21:26:18  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:26:18  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:26:18  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:26:18  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:26:18  [Apache] 	Attempting to start Apache app...
+21:26:18  [Apache] 	Status change detected: running
+21:26:19  [Apache] 	Status change detected: stopped
+21:26:19  [Apache] 	Error: Apache shutdown unexpectedly.
+21:26:19  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:26:19  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:26:19  [Apache] 	Press the Logs button to view error logs and check
+21:26:19  [Apache] 	the Windows Event Viewer for more clues
+21:26:19  [Apache] 	If you need more help, copy and post this
+21:26:19  [Apache] 	entire log window on the forums
+21:26:20  [Apache] 	Problem detected!
+21:26:20  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:26:20  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:26:20  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:26:20  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:26:20  [Apache] 	Attempting to start Apache app...
+21:26:20  [Apache] 	Status change detected: running
+21:26:20  [Apache] 	Status change detected: stopped
+21:26:20  [Apache] 	Error: Apache shutdown unexpectedly.
+21:26:20  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:26:20  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:26:20  [Apache] 	Press the Logs button to view error logs and check
+21:26:20  [Apache] 	the Windows Event Viewer for more clues
+21:26:20  [Apache] 	If you need more help, copy and post this
+21:26:20  [Apache] 	entire log window on the forums
+21:26:22  [Apache] 	Problem detected!
+21:26:22  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:26:22  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:26:22  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:26:22  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:26:22  [Apache] 	Attempting to start Apache app...
+21:26:22  [Apache] 	Status change detected: running
+21:26:23  [Apache] 	Status change detected: stopped
+21:26:23  [Apache] 	Error: Apache shutdown unexpectedly.
+21:26:23  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:26:23  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:26:23  [Apache] 	Press the Logs button to view error logs and check
+21:26:23  [Apache] 	the Windows Event Viewer for more clues
+21:26:23  [Apache] 	If you need more help, copy and post this
+21:26:23  [Apache] 	entire log window on the forums
+21:26:31  [Apache] 	Problem detected!
+21:26:31  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:26:31  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:26:31  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:26:31  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:26:31  [Apache] 	Attempting to start Apache app...
+21:26:31  [Apache] 	Status change detected: running
+21:26:31  [Apache] 	Status change detected: stopped
+21:26:31  [Apache] 	Error: Apache shutdown unexpectedly.
+21:26:31  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:26:31  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:26:31  [Apache] 	Press the Logs button to view error logs and check
+21:26:31  [Apache] 	the Windows Event Viewer for more clues
+21:26:31  [Apache] 	If you need more help, copy and post this
+21:26:31  [Apache] 	entire log window on the forums
+21:40:47  [Apache] 	Problem detected!
+21:40:47  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:40:47  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:40:47  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:40:47  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:40:48  [Apache] 	Attempting to start Apache app...
+21:40:48  [Apache] 	Status change detected: running
+21:40:48  [Apache] 	Status change detected: stopped
+21:40:48  [Apache] 	Error: Apache shutdown unexpectedly.
+21:40:48  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:40:48  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:40:48  [Apache] 	Press the Logs button to view error logs and check
+21:40:48  [Apache] 	the Windows Event Viewer for more clues
+21:40:48  [Apache] 	If you need more help, copy and post this
+21:40:48  [Apache] 	entire log window on the forums
+21:40:49  [Apache] 	Problem detected!
+21:40:49  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+21:40:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:40:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:40:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:40:49  [Apache] 	Attempting to start Apache app...
+21:41:06  [main] 	Deinitializing Modules
+21:41:06  [main] 	Deinitializing Control Panel
+
+21:41:08  [main] 	Initializing Control Panel
+21:41:08  [main] 	Windows Version:  Enterprise  64-bit
+21:41:08  [main] 	XAMPP Version: 8.0.0
+21:41:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:41:08  [main] 	You are not running with administrator rights! This will work for
+21:41:08  [main] 	most application stuff but whenever you do something with services
+21:41:08  [main] 	there will be a security dialogue or things will break! So think 
+21:41:08  [main] 	about running this application with administrator rights!
+21:41:08  [main] 	XAMPP Installation Directory: "i:\www\"
+21:41:08  [main] 	Checking for prerequisites
+21:41:09  [main] 	All prerequisites found
+21:41:09  [main] 	Initializing Modules
+21:41:09  [main] 	The FileZilla module is disabled
+21:41:09  [main] 	The Mercury module is disabled
+21:41:09  [main] 	Starting Check-Timer
+21:41:09  [main] 	Control Panel Ready
+21:41:10  [Apache] 	Attempting to start Apache app...
+21:41:10  [Apache] 	Status change detected: running
+21:41:11  [Apache] 	Status change detected: stopped
+21:41:11  [Apache] 	Error: Apache shutdown unexpectedly.
+21:41:11  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:41:11  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:41:11  [Apache] 	Press the Logs button to view error logs and check
+21:41:11  [Apache] 	the Windows Event Viewer for more clues
+21:41:11  [Apache] 	If you need more help, copy and post this
+21:41:11  [Apache] 	entire log window on the forums
+21:41:12  [mysql] 	Attempting to start MySQL app...
+21:41:15  [mysql] 	Attempting to start MySQL app...
+21:41:19  [Apache] 	Status change detected: running
+21:41:20  [Apache] 	Status change detected: stopped
+21:41:20  [Apache] 	Error: Apache shutdown unexpectedly.
+21:41:20  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:41:20  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:41:20  [Apache] 	Press the Logs button to view error logs and check
+21:41:20  [Apache] 	the Windows Event Viewer for more clues
+21:41:20  [Apache] 	If you need more help, copy and post this
+21:41:20  [Apache] 	entire log window on the forums
+21:41:32  [Apache] 	Attempting to start Apache app...
+21:41:32  [Apache] 	Status change detected: running
+21:41:32  [Apache] 	Status change detected: stopped
+21:41:32  [Apache] 	Error: Apache shutdown unexpectedly.
+21:41:32  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:41:32  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:41:32  [Apache] 	Press the Logs button to view error logs and check
+21:41:32  [Apache] 	the Windows Event Viewer for more clues
+21:41:32  [Apache] 	If you need more help, copy and post this
+21:41:32  [Apache] 	entire log window on the forums
+21:41:35  [mysql] 	Attempting to start MySQL app...
+21:42:04  [Apache] 	Attempting to start Apache app...
+21:42:05  [Apache] 	Status change detected: running
+21:42:05  [Apache] 	Status change detected: stopped
+21:42:05  [Apache] 	Error: Apache shutdown unexpectedly.
+21:42:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:42:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:42:05  [Apache] 	Press the Logs button to view error logs and check
+21:42:05  [Apache] 	the Windows Event Viewer for more clues
+21:42:05  [Apache] 	If you need more help, copy and post this
+21:42:05  [Apache] 	entire log window on the forums
+21:42:53  [Apache] 	Attempting to start Apache app...
+21:42:53  [Apache] 	Status change detected: running
+21:42:53  [Apache] 	Status change detected: stopped
+21:42:53  [Apache] 	Error: Apache shutdown unexpectedly.
+21:42:53  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:42:53  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:42:53  [Apache] 	Press the Logs button to view error logs and check
+21:42:53  [Apache] 	the Windows Event Viewer for more clues
+21:42:53  [Apache] 	If you need more help, copy and post this
+21:42:53  [Apache] 	entire log window on the forums
+21:42:54  [Apache] 	Attempting to start Apache app...
+21:42:59  [Apache] 	Attempting to start Apache app...
+21:42:59  [Apache] 	Status change detected: running
+21:42:59  [Apache] 	Status change detected: stopped
+21:42:59  [Apache] 	Error: Apache shutdown unexpectedly.
+21:42:59  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:42:59  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:42:59  [Apache] 	Press the Logs button to view error logs and check
+21:42:59  [Apache] 	the Windows Event Viewer for more clues
+21:42:59  [Apache] 	If you need more help, copy and post this
+21:42:59  [Apache] 	entire log window on the forums
+21:43:22  [Apache] 	Status change detected: running
+21:43:23  [Apache] 	Status change detected: stopped
+21:43:23  [Apache] 	Error: Apache shutdown unexpectedly.
+21:43:23  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:43:23  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:43:23  [Apache] 	Press the Logs button to view error logs and check
+21:43:23  [Apache] 	the Windows Event Viewer for more clues
+21:43:23  [Apache] 	If you need more help, copy and post this
+21:43:23  [Apache] 	entire log window on the forums
+21:43:33  [Apache] 	Attempting to start Apache app...
+21:43:33  [Apache] 	Status change detected: running
+21:43:34  [Apache] 	Status change detected: stopped
+21:43:34  [Apache] 	Error: Apache shutdown unexpectedly.
+21:43:34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:43:34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:43:34  [Apache] 	Press the Logs button to view error logs and check
+21:43:34  [Apache] 	the Windows Event Viewer for more clues
+21:43:34  [Apache] 	If you need more help, copy and post this
+21:43:34  [Apache] 	entire log window on the forums
+21:43:43  [main] 	Executing "services.msc"
+21:44:17  [Apache] 	Attempting to start Apache app...
+21:44:17  [Apache] 	Status change detected: running
+21:44:18  [Apache] 	Status change detected: stopped
+21:44:18  [Apache] 	Error: Apache shutdown unexpectedly.
+21:44:18  [Apache] 	This may be due to a blocked port, missing dependencies, 
+21:44:18  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+21:44:18  [Apache] 	Press the Logs button to view error logs and check
+21:44:18  [Apache] 	the Windows Event Viewer for more clues
+21:44:18  [Apache] 	If you need more help, copy and post this
+21:44:18  [Apache] 	entire log window on the forums
+21:44:58  [main] 	Deinitializing Modules
+21:44:58  [main] 	Deinitializing Control Panel
+
+21:45:06  [main] 	Initializing Control Panel
+21:45:06  [main] 	Windows Version:  Enterprise  64-bit
+21:45:06  [main] 	XAMPP Version: 8.0.0
+21:45:06  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:45:06  [main] 	You are not running with administrator rights! This will work for
+21:45:06  [main] 	most application stuff but whenever you do something with services
+21:45:06  [main] 	there will be a security dialogue or things will break! So think 
+21:45:06  [main] 	about running this application with administrator rights!
+21:45:06  [main] 	XAMPP Installation Directory: "i:\www\"
+21:45:06  [main] 	Checking for prerequisites
+21:45:06  [main] 	All prerequisites found
+21:45:06  [main] 	Initializing Modules
+21:45:06  [main] 	The FileZilla module is disabled
+21:45:06  [main] 	The Mercury module is disabled
+21:45:06  [main] 	Starting Check-Timer
+21:45:06  [main] 	Control Panel Ready
+21:45:07  [Apache] 	Attempting to start Apache app...
+21:45:07  [Apache] 	Status change detected: running
+21:45:14  [mysql] 	Attempting to start MySQL app...
+21:45:15  [mysql] 	Status change detected: running
+21:46:22  [Apache] 	Attempting to stop Apache (PID: 10712)
+21:46:22  [Apache] 	Attempting to stop Apache (PID: 9976)
+21:46:22  [Apache] 	Status change detected: stopped
+21:46:23  [mysql] 	Attempting to stop MySQL app...
+21:46:23  [mysql] 	Status change detected: stopped
+21:46:33  [Apache] 	Attempting to start Apache app...
+21:46:34  [Apache] 	Status change detected: running
+21:46:35  [mysql] 	Attempting to start MySQL app...
+21:46:35  [mysql] 	Status change detected: running
+21:46:58  [Apache] 	Attempting to stop Apache (PID: 1880)
+21:46:58  [Apache] 	Attempting to stop Apache (PID: 4292)
+21:46:59  [Apache] 	Status change detected: stopped
+21:46:59  [mysql] 	Attempting to stop MySQL app...
+21:46:59  [mysql] 	Status change detected: stopped
+21:47:00  [main] 	Deinitializing Modules
+21:47:00  [main] 	Deinitializing Control Panel
+
+8:20:32  [main] 	Initializing Control Panel
+8:20:32  [main] 	Windows Version:  Enterprise  64-bit
+8:20:32  [main] 	XAMPP Version: 8.0.0
+8:20:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:20:32  [main] 	You are not running with administrator rights! This will work for
+8:20:32  [main] 	most application stuff but whenever you do something with services
+8:20:32  [main] 	there will be a security dialogue or things will break! So think 
+8:20:32  [main] 	about running this application with administrator rights!
+8:20:32  [main] 	XAMPP Installation Directory: "i:\www\"
+8:20:32  [main] 	Checking for prerequisites
+8:20:35  [main] 	All prerequisites found
+8:20:35  [main] 	Initializing Modules
+8:20:35  [mysql] 	XAMPP MySQL is already running on port 3306
+8:20:35  [main] 	The FileZilla module is disabled
+8:20:35  [main] 	The Mercury module is disabled
+8:20:35  [main] 	Starting Check-Timer
+8:20:35  [main] 	Control Panel Ready
+8:20:49  [Apache] 	Attempting to start Apache app...
+8:20:49  [Apache] 	Status change detected: running
+8:21:35  [Apache] 	Attempting to stop Apache (PID: 1436)
+8:21:35  [Apache] 	Attempting to stop Apache (PID: 9344)
+8:21:35  [Apache] 	Status change detected: stopped
+8:21:36  [Apache] 	Attempting to start Apache app...
+8:21:36  [Apache] 	Status change detected: running
+8:21:41  [Apache] 	Attempting to stop Apache (PID: 10508)
+8:21:41  [Apache] 	Attempting to stop Apache (PID: 6936)
+8:21:41  [Apache] 	Status change detected: stopped
+8:22:04  [Apache] 	Attempting to start Apache app...
+8:22:04  [Apache] 	Status change detected: running
+8:22:05  [Apache] 	Status change detected: stopped
+8:22:05  [Apache] 	Error: Apache shutdown unexpectedly.
+8:22:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:22:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:22:05  [Apache] 	Press the Logs button to view error logs and check
+8:22:05  [Apache] 	the Windows Event Viewer for more clues
+8:22:05  [Apache] 	If you need more help, copy and post this
+8:22:05  [Apache] 	entire log window on the forums
+8:22:35  [Apache] 	Attempting to start Apache app...
+8:22:36  [Apache] 	Status change detected: running
+8:22:36  [Apache] 	Status change detected: stopped
+8:22:36  [Apache] 	Error: Apache shutdown unexpectedly.
+8:22:36  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:22:36  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:22:36  [Apache] 	Press the Logs button to view error logs and check
+8:22:36  [Apache] 	the Windows Event Viewer for more clues
+8:22:36  [Apache] 	If you need more help, copy and post this
+8:22:36  [Apache] 	entire log window on the forums
+8:22:44  [Apache] 	Attempting to start Apache app...
+8:22:44  [Apache] 	Status change detected: running
+8:22:59  [Apache] 	Attempting to stop Apache (PID: 888)
+8:22:59  [Apache] 	Attempting to stop Apache (PID: 11216)
+8:22:59  [Apache] 	Status change detected: stopped
+8:23:27  [Apache] 	Attempting to start Apache app...
+8:23:28  [Apache] 	Status change detected: running
+8:23:28  [Apache] 	Status change detected: stopped
+8:23:28  [Apache] 	Error: Apache shutdown unexpectedly.
+8:23:28  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:23:28  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:23:28  [Apache] 	Press the Logs button to view error logs and check
+8:23:28  [Apache] 	the Windows Event Viewer for more clues
+8:23:28  [Apache] 	If you need more help, copy and post this
+8:23:28  [Apache] 	entire log window on the forums
+8:23:30  [Apache] 	Attempting to start Apache app...
+8:23:30  [Apache] 	Status change detected: running
+8:23:31  [Apache] 	Status change detected: stopped
+8:23:31  [Apache] 	Error: Apache shutdown unexpectedly.
+8:23:31  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:23:31  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:23:31  [Apache] 	Press the Logs button to view error logs and check
+8:23:31  [Apache] 	the Windows Event Viewer for more clues
+8:23:31  [Apache] 	If you need more help, copy and post this
+8:23:31  [Apache] 	entire log window on the forums
+8:23:38  [Apache] 	Attempting to start Apache app...
+8:23:38  [Apache] 	Status change detected: running
+8:24:53  [Apache] 	Attempting to stop Apache (PID: 2868)
+8:24:53  [Apache] 	Attempting to stop Apache (PID: 9904)
+8:24:53  [Apache] 	Status change detected: stopped
+8:24:53  [Apache] 	Attempting to start Apache app...
+8:24:54  [Apache] 	Status change detected: running
+8:26:53  [Apache] 	Attempting to stop Apache (PID: 7040)
+8:26:53  [Apache] 	Attempting to stop Apache (PID: 6728)
+8:26:53  [Apache] 	Status change detected: stopped
+8:26:53  [Apache] 	Attempting to start Apache app...
+8:26:53  [Apache] 	Status change detected: running
+8:28:21  [main] 	Executing "i:\www\"
+8:28:54  [main] 	Deinitializing Modules
+8:28:54  [main] 	Deinitializing Control Panel
+
+8:28:56  [main] 	Initializing Control Panel
+8:28:56  [main] 	Windows Version:  Enterprise  64-bit
+8:28:56  [main] 	XAMPP Version: 8.0.0
+8:28:56  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:28:56  [main] 	You are not running with administrator rights! This will work for
+8:28:56  [main] 	most application stuff but whenever you do something with services
+8:28:56  [main] 	there will be a security dialogue or things will break! So think 
+8:28:56  [main] 	about running this application with administrator rights!
+8:28:56  [main] 	XAMPP Installation Directory: "i:\www\"
+8:28:56  [main] 	Checking for prerequisites
+8:28:57  [main] 	All prerequisites found
+8:28:57  [main] 	Initializing Modules
+8:28:57  [Apache] 	XAMPP Apache is already running on port 8080
+8:28:57  [Apache] 	XAMPP Apache is already running on port 443
+8:28:57  [mysql] 	XAMPP MySQL is already running on port 3306
+8:28:57  [main] 	The FileZilla module is disabled
+8:28:57  [main] 	The Mercury module is disabled
+8:28:57  [Tomcat] 	Problem detected!
+8:28:57  [Tomcat] 	Port 8080 in use by "I:\www\apache\bin\httpd.exe"!
+8:28:57  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+8:28:57  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+8:28:57  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+8:28:57  [main] 	Enabling autostart for module "Apache"
+8:28:57  [main] 	Enabling autostart for module "MySQL"
+8:28:57  [main] 	Starting Check-Timer
+8:28:57  [main] 	Control Panel Ready
+8:28:57  [Apache] 	Autostart aborted: Apache is already running
+8:28:57  [mysql] 	Autostart aborted: MySQL is already running
+8:46:46  [main] 	Deinitializing Modules
+8:46:46  [main] 	Deinitializing Control Panel
+
+8:47:12  [main] 	Initializing Control Panel
+8:47:12  [main] 	Windows Version:  Enterprise  64-bit
+8:47:12  [main] 	XAMPP Version: 8.0.0
+8:47:12  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:47:12  [main] 	You are not running with administrator rights! This will work for
+8:47:12  [main] 	most application stuff but whenever you do something with services
+8:47:12  [main] 	there will be a security dialogue or things will break! So think 
+8:47:12  [main] 	about running this application with administrator rights!
+8:47:12  [main] 	XAMPP Installation Directory: "i:\www\"
+8:47:12  [main] 	Checking for prerequisites
+8:47:12  [main] 	All prerequisites found
+8:47:12  [main] 	Initializing Modules
+8:47:12  [Apache] 	XAMPP Apache is already running on port 8080
+8:47:12  [Apache] 	XAMPP Apache is already running on port 443
+8:47:12  [mysql] 	XAMPP MySQL is already running on port 3306
+8:47:12  [main] 	The FileZilla module is disabled
+8:47:12  [main] 	The Mercury module is disabled
+8:47:12  [Tomcat] 	Problem detected!
+8:47:12  [Tomcat] 	Port 8080 in use by "I:\www\apache\bin\httpd.exe"!
+8:47:12  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+8:47:12  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+8:47:12  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+8:47:12  [main] 	Enabling autostart for module "Apache"
+8:47:12  [main] 	Enabling autostart for module "MySQL"
+8:47:12  [main] 	Starting Check-Timer
+8:47:12  [main] 	Control Panel Ready
+8:47:13  [Apache] 	Autostart aborted: Apache is already running
+8:47:13  [mysql] 	Autostart aborted: MySQL is already running
+8:47:16  [Apache] 	Attempting to stop Apache (PID: 9476)
+8:47:16  [Apache] 	Attempting to stop Apache (PID: 7824)
+8:47:16  [Apache] 	Status change detected: stopped
+8:47:16  [mysql] 	Attempting to stop MySQL app...
+8:47:17  [mysql] 	Status change detected: stopped
+8:47:18  [main] 	Deinitializing Modules
+8:47:18  [main] 	Deinitializing Control Panel
+

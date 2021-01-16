@@ -1,0 +1,92 @@
+[Fri Jan 15 21:45:08.346977 2021] [ssl:warn] [pid 10712:tid 652] AH01909: www.example.com:10433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:45:08.487592 2021] [ssl:warn] [pid 10712:tid 652] AH01909: www.example.com:10433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:45:08.612598 2021] [mpm_winnt:notice] [pid 10712:tid 652] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Fri Jan 15 21:45:08.612598 2021] [mpm_winnt:notice] [pid 10712:tid 652] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Fri Jan 15 21:45:08.612598 2021] [core:notice] [pid 10712:tid 652] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Fri Jan 15 21:45:08.628210 2021] [mpm_winnt:notice] [pid 10712:tid 652] AH00418: Parent: Created child process 9976
+[Fri Jan 15 21:45:09.003208 2021] [ssl:warn] [pid 9976:tid 648] AH01909: www.example.com:10433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:45:09.112564 2021] [ssl:warn] [pid 9976:tid 648] AH01909: www.example.com:10433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:45:09.143810 2021] [mpm_winnt:notice] [pid 9976:tid 648] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 15 21:46:34.298494 2021] [ssl:warn] [pid 1880:tid 652] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:46:34.392250 2021] [core:warn] [pid 1880:tid 652] AH00098: pid file I:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 15 21:46:34.407874 2021] [ssl:warn] [pid 1880:tid 652] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:46:34.439122 2021] [mpm_winnt:notice] [pid 1880:tid 652] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Fri Jan 15 21:46:34.439122 2021] [mpm_winnt:notice] [pid 1880:tid 652] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Fri Jan 15 21:46:34.439122 2021] [core:notice] [pid 1880:tid 652] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Fri Jan 15 21:46:34.439122 2021] [mpm_winnt:notice] [pid 1880:tid 652] AH00418: Parent: Created child process 4292
+[Fri Jan 15 21:46:34.876998 2021] [ssl:warn] [pid 4292:tid 640] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:46:34.986351 2021] [ssl:warn] [pid 4292:tid 640] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 15 21:46:35.017599 2021] [mpm_winnt:notice] [pid 4292:tid 640] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:20:05.354935 2021] [ssl:warn] [pid 4860:tid 696] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:05.443885 2021] [core:warn] [pid 4860:tid 696] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:20:05.468870 2021] [ssl:warn] [pid 4860:tid 696] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:06.356362 2021] [mpm_winnt:notice] [pid 4860:tid 696] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:20:06.358361 2021] [mpm_winnt:notice] [pid 4860:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:20:06.358361 2021] [core:notice] [pid 4860:tid 696] AH00094: Command line: 'apache\\bin\\httpd.exe -d I:/www/apache -f conf\\httpd.conf'
+[Sat Jan 16 08:20:06.405336 2021] [mpm_winnt:notice] [pid 4860:tid 696] AH00418: Parent: Created child process 8180
+Apache server shutdown initiated...
+sl:warn] [pid 8180:tid 828] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:07.021981 2021] [ssl:warn] [pid 8180:tid 828] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:07.055963 2021] [mpm_winnt:notice] [pid 8180:tid 828] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:20:18.062832 2021] [mpm_winnt:notice] [pid 4860:tid 696] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 16 08:20:20.093927 2021] [mpm_winnt:notice] [pid 8180:tid 828] AH00364: Child: All worker threads have exited.
+[Sat Jan 16 08:20:20.187671 2021] [mpm_winnt:notice] [pid 4860:tid 696] AH00430: Parent: Child process 8180 exited successfully.
+[Sat Jan 16 08:20:50.091853 2021] [ssl:warn] [pid 1436:tid 632] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:50.154358 2021] [ssl:warn] [pid 1436:tid 632] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:50.185606 2021] [mpm_winnt:notice] [pid 1436:tid 632] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:20:50.185606 2021] [mpm_winnt:notice] [pid 1436:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:20:50.185606 2021] [core:notice] [pid 1436:tid 632] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:20:50.185606 2021] [mpm_winnt:notice] [pid 1436:tid 632] AH00418: Parent: Created child process 9344
+[Sat Jan 16 08:20:50.607457 2021] [ssl:warn] [pid 9344:tid 644] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:50.701199 2021] [ssl:warn] [pid 9344:tid 644] AH01909: www.example.com:4433:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:20:50.732437 2021] [mpm_winnt:notice] [pid 9344:tid 644] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:21:37.135476 2021] [ssl:warn] [pid 10508:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:21:37.197970 2021] [core:warn] [pid 10508:tid 640] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:21:37.213594 2021] [ssl:warn] [pid 10508:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:21:37.244842 2021] [mpm_winnt:notice] [pid 10508:tid 640] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:21:37.244842 2021] [mpm_winnt:notice] [pid 10508:tid 640] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:21:37.244842 2021] [core:notice] [pid 10508:tid 640] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:21:37.244842 2021] [mpm_winnt:notice] [pid 10508:tid 640] AH00418: Parent: Created child process 6936
+[Sat Jan 16 08:21:37.729183 2021] [ssl:warn] [pid 6936:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:21:37.822927 2021] [ssl:warn] [pid 6936:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:21:37.854175 2021] [mpm_winnt:notice] [pid 6936:tid 636] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:22:45.068278 2021] [ssl:warn] [pid 888:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:22:45.130773 2021] [core:warn] [pid 888:tid 628] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:22:45.146397 2021] [ssl:warn] [pid 888:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:22:45.162022 2021] [mpm_winnt:notice] [pid 888:tid 628] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:22:45.162022 2021] [mpm_winnt:notice] [pid 888:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:22:45.162022 2021] [core:notice] [pid 888:tid 628] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:22:45.177646 2021] [mpm_winnt:notice] [pid 888:tid 628] AH00418: Parent: Created child process 11216
+[Sat Jan 16 08:22:45.755730 2021] [ssl:warn] [pid 11216:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:22:45.802617 2021] [ssl:warn] [pid 11216:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:22:45.833852 2021] [mpm_winnt:notice] [pid 11216:tid 652] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:23:38.580202 2021] [ssl:warn] [pid 2868:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:23:38.658322 2021] [core:warn] [pid 2868:tid 680] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:23:38.673946 2021] [ssl:warn] [pid 2868:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:23:38.689580 2021] [mpm_winnt:notice] [pid 2868:tid 680] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:23:38.689580 2021] [mpm_winnt:notice] [pid 2868:tid 680] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:23:38.689580 2021] [core:notice] [pid 2868:tid 680] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:23:38.705196 2021] [mpm_winnt:notice] [pid 2868:tid 680] AH00418: Parent: Created child process 9904
+[Sat Jan 16 08:23:39.189535 2021] [ssl:warn] [pid 9904:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:23:39.236423 2021] [ssl:warn] [pid 9904:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:23:39.267655 2021] [mpm_winnt:notice] [pid 9904:tid 656] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:24:54.508803 2021] [ssl:warn] [pid 7040:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:24:54.577783 2021] [core:warn] [pid 7040:tid 660] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:24:54.591651 2021] [ssl:warn] [pid 7040:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:24:54.618637 2021] [mpm_winnt:notice] [pid 7040:tid 660] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:24:54.618637 2021] [mpm_winnt:notice] [pid 7040:tid 660] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:24:54.618637 2021] [core:notice] [pid 7040:tid 660] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:24:54.626642 2021] [mpm_winnt:notice] [pid 7040:tid 660] AH00418: Parent: Created child process 6728
+[Sat Jan 16 08:24:55.036836 2021] [ssl:warn] [pid 6728:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:24:55.089799 2021] [ssl:warn] [pid 6728:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:24:55.117050 2021] [mpm_winnt:notice] [pid 6728:tid 660] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 16 08:26:53.582070 2021] [ssl:warn] [pid 9476:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:26:53.660217 2021] [core:warn] [pid 9476:tid 648] AH00098: pid file i:/www/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 16 08:26:53.675827 2021] [ssl:warn] [pid 9476:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:26:53.707079 2021] [mpm_winnt:notice] [pid 9476:tid 648] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Sat Jan 16 08:26:53.707079 2021] [mpm_winnt:notice] [pid 9476:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Sat Jan 16 08:26:53.707079 2021] [core:notice] [pid 9476:tid 648] AH00094: Command line: 'i:\\www\\apache\\bin\\httpd.exe -d I:/www/apache'
+[Sat Jan 16 08:26:53.707079 2021] [mpm_winnt:notice] [pid 9476:tid 648] AH00418: Parent: Created child process 7824
+[Sat Jan 16 08:26:54.160180 2021] [ssl:warn] [pid 7824:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:26:54.253912 2021] [ssl:warn] [pid 7824:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 16 08:26:54.285156 2021] [mpm_winnt:notice] [pid 7824:tid 644] AH00354: Child: Starting 150 worker threads.
